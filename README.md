@@ -12,7 +12,7 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 ### Since Graduating
 * I have continued my education by learning more things such as C#, .NET, Kotlin, and Jetpack Compose.
 * I picked up the Unity Engine and made a small mini-game that has you control a ship that fires at enemies opposite you while dodging their attacks (much like Space Invader).
-* After starting a new campaign in the Starfinder Tabletop RPG with some friends, I found a need for an app to manage spells. When I found none existed, I learnt how to make it. I taught myself Kotlin with Jetpack Compose annotation through the help of online resources, and currently working on getting the app into the Google Play Store. The code for this app can be found here -> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Col-Ian/SpellListApplication)
+* After starting a new campaign in the Starfinder Tabletop RPG with some friends, I found a need for an app to manage spells. When I found none existed, I learnt how to make it. I taught myself Kotlin with Jetpack Compose annotation through the help of online resources, and currently working on getting the app into the Google Play Store. The code for this app can be found here -> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='12'>](https://github.com/Col-Ian/SpellListApplication)
 * I am currently registered as a mentor for the Canada Learning Code program. In this role I am able to sign up for any upcomming events and act as an aid to the instructor.
 
 ### GetCoding
