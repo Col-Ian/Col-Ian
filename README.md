@@ -22,3 +22,6 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Col-Ian&show_icons=true&count_private=true)  
+
+#### Visit my LinkedIn
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ian-collins-02232026a/)
