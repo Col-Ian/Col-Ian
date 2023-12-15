@@ -17,3 +17,8 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 
 ### GetCoding
 * In December 2023, I started the GetCoding program to gain some practical experience and learn how to overall become a better developer.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Col-Ian&show_icons=true&count_private=true)  
