@@ -16,7 +16,7 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 * I am currently registered as a mentor for the Canada Learning Code program. In this role I am able to sign up for any upcomming events and act as an aid to the instructor.
 
 ### GetCoding
-* In December 2023, I started the GetCoding program to gain some practical experience and learn how to overall become a better developer.
+* In December 2023, I started the GetCoding program to gain some practical experience and learn how to overall become a better developer. The repository for my project for the first module can be seen [here](https://github.com/Col-Ian/Starfinder-GM-Helper), while the working link for it can be found [here](https://col-ian.github.io/Starfinder-GM-Helper/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)
