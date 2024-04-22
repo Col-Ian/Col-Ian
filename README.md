@@ -19,9 +19,7 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 * In December 2023, I started the GetCoding program to gain some practical experience and learn how to overall become a better developer. The repository for my project for the first module can be seen [here](https://github.com/Col-Ian/Starfinder-GM-Helper), while the working link for it can be found [here](https://col-ian.github.io/Starfinder-GM-Helper/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Col-Ian&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)  
 
 #### Visit my LinkedIn
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ian-collins-02232026a/)
