@@ -17,6 +17,7 @@ My name is Ian, and I'm a Software Developer. I have graduated Keyin College's S
 
 ### GetCoding
 * In December 2023, I started the GetCoding program to gain some practical experience and learn how to overall become a better developer. The repository for my project for the first module can be seen [here](https://github.com/Col-Ian/Starfinder-GM-Helper), while the working link for it can be found [here](https://col-ian.github.io/Starfinder-GM-Helper/)
+* My second module's project involved using react with typescript. It's a tool for players of the Starfinder tabletop RPG to use for managing their character and gives them their options to use during combat. It uses local storage, so that everything can be saved per user. The repository can be found [here](https://github.com/Col-Ian/Next-Up), and the working link can be found [here](https://col-ian.github.io/Next-Up/).
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Ian)](https://github.com/anuraghazra/github-readme-stats)  
